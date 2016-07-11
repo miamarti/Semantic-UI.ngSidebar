@@ -10,6 +10,8 @@ Semantic is a UI component framework based around useful principles from natural
   <img src="https://img.shields.io/bower/v/bootstrap.svg">
 </p>
 
+<img src="https://c5.staticflickr.com/9/8782/27626205084_2f5de3a37f_z.jpg" width="361" height="549" alt="Semantic-UI.ngSidebar">
+
 ## Dependencies
 * AngularJS
 
