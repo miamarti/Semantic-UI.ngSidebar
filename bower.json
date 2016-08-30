@@ -1,6 +1,6 @@
 {
-  "name": "ng.sidebar",
-  "version": "1.0.0",
+  "name": "ng-sidebar",
+  "version": "1.0.1",
   "keywords": ["semantic-ui", "sidebar"],
   "main": ["dist/ngSidebar.js"],
   "ignore": [
